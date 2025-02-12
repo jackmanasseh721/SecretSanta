@@ -1,0 +1,17 @@
+{
+  "name": "secertsanta",
+  "version": "1.0.0",
+  "main": "SecertSanta.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "csv-parser": "^3.2.0",
+    "fast-csv": "^5.0.2",
+    "fs": "^0.0.1-security"
+  }
+}
